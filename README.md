@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 iniciando os estudos 
+- 🌱 Estudante de Getão da tecnologia da informação.
 - 😄 Pronouns:ela/dela
 -->
 <div align="center">
